@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <h1>头条信息</h1>
     <router-view />
   </div>
 </template>
@@ -11,4 +10,5 @@ export default {
 }
 </script>
 
-<style lang="less"></style>
+<style lang="less">
+</style>

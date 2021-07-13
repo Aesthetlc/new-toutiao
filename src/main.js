@@ -2,9 +2,13 @@ import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
 import store from './store'
-
+import Vant from 'vant'
+import 'vant/lib/index.css'
 // 全局样式
-import '../src/style/index.less'
+import '../src/style/index.css'
+import 'amfe-flexible'
+
+Vue.use(Vant)
 
 Vue.config.productionTip = false
 

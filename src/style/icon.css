@@ -73,19 +73,3 @@
 .icon-shoucang:before {
   content: '\e614';
 }
-body {
-  background-color: #f5f7f9;
-}
-.app-nav-bar {
-  background-color: #3296fa;
-}
-.app-nav-bar .van-nav-bar__title {
-  color: #fff;
-}
-.app-nav-bar .van-icon {
-  color: #fff;
-}
-.van-cell {
-  display: flex;
-  align-items: center;
-}
